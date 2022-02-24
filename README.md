@@ -7,4 +7,7 @@ This App was made to learn the basics of Angular
 - Components
 - CSS scoping
 - Template references
-- \*NgFor
+- *NgFor
+
+![name](https://github.com/matshel/cards-angular/blob/master/src/assets/card-app.PNG)
+
